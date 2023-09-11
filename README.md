@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/SyncDreamer-colab/blob/main/NIKI_colab.ipynb) | SyncDreamer_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/SyncDreamer-colab/blob/main/SyncDreamer_colab.ipynb) | SyncDreamer_colab
 
 ## Main Repo
 https://github.com/liuyuan-pal/SyncDreamer

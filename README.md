@@ -20,3 +20,5 @@ https://arxiv.org/abs/2309.03453
 https://liuyuan-pal.github.io/SyncDreamer/
 
 ## Output
+
+![Screenshot 2023-09-15 201817](https://github.com/camenduru/SyncDreamer-colab/assets/54370274/da82454e-63f1-4b6e-8632-bc010bc9c05e)

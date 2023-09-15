@@ -6,8 +6,8 @@
 
 | Colab | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/SyncDreamer-colab/blob/main/SyncDreamer_gradio_colab.ipynb) | SyncDreamer_gradio_colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/SyncDreamer-colab/blob/main/SyncDreamer_colab.ipynb) | SyncDreamer_colab (Pro Colab 😭)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/SyncDreamer-colab/blob/main/SyncDreamer_gradio_colab.ipynb) | SyncDreamer_gradio_colab (Pro Colab 😭)
 
 ## Main Repo
 https://github.com/liuyuan-pal/SyncDreamer <br />

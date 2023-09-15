@@ -10,8 +10,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/SyncDreamer-colab/blob/main/SyncDreamer_gradio_colab.ipynb) | SyncDreamer_gradio_colab
 
 ## Main Repo
-https://github.com/liuyuan-pal/SyncDreamer
-https://huggingface.co/spaces/liuyuan-pal/SyncDreamer/tree/main
+https://github.com/liuyuan-pal/SyncDreamer <br />
+https://huggingface.co/spaces/liuyuan-pal/SyncDreamer/tree/main <br />
 
 ## Paper
 https://arxiv.org/abs/2309.03453
